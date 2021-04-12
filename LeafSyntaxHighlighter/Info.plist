@@ -12,9 +12,9 @@
 			<key>CFBundleTypeName</key>
 			<string>Leaf</string>
 			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
+			<string>None</string>
 			<key>LSHandlerRank</key>
-			<string>Default</string>
+			<string>None</string>
 			<key>LSItemContentTypes</key>
 			<array>
 				<string>com.omrankhoja.leaf-source</string>
@@ -70,6 +70,10 @@
 				<key>public.filename-extension</key>
 				<array>
 					<string>leaf</string>
+				</array>
+				<key>public.mime-type</key>
+				<array>
+					<string>text/html</string>
 				</array>
 			</dict>
 		</dict>
