@@ -1,14 +1,18 @@
 # Vapor Leaf Extension
 
-Simple Application that registers Vapor Leaf's .leaf file type to LaunchServices as html enabling automatic syntax highlighting in Xcode.
+
+
+Simple Application that registers Vapor Leaf's .leaf file type to LaunchServices as html enabling automatic syntax highlighting in Xcode. [Download](https://github.com/OmranK/LeafSyntaxHighlighter/releases/tag/v1.0) and run just once for desired result.
 
 <img src="Images/Xcode-code-highlight.png"> &nbsp;
 
 Includes a custom file icon for the file type.
 
-<img src="Images/Xcode-file-icon.png"> &nbsp;
+<img src="Images/Xcode-file-icon.png">
 
-Registers the file type to LaunchServices as a custom Document Type enabling the file icon to show in Finder.
+&nbsp;
+
+Also registers the file type to LaunchServices as a custom Document Type enabling the file icon to show in Finder.
 
 <img src="Images/Finder-icon.png"> &nbsp;
 
