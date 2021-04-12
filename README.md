@@ -25,5 +25,5 @@ To create your own custom icon follow the Apple Developer Documentation: [Design
 View all LaunchServices associations:
 ``/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -dump``
 
-Command-F to search for file type, .leaf in this case. Once you find the bundle name for the project that registered this file type you can unregister it:
+Command-F to search for file type, .leaf in this case. Once you find the path name for the project that registered this file type you can unregister it:
 ``/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -u <path to bundle>``
