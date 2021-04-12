@@ -2,7 +2,7 @@
 
 
 
-Simple Application that registers Vapor Leaf's .leaf file type to LaunchServices as html enabling automatic syntax highlighting in Xcode. [Download](https://github.com/OmranK/LeafSyntaxHighlighter/releases/tag/v1.0) and run just once for desired result.
+Simple Application that registers Vapor Leaf's .leaf file type to LaunchServices as html enabling automatic syntax highlighting in Xcode. [Download](https://github.com/OmranK/LeafSyntaxHighlighter/releases/tag/v1.1) and run just once for desired result.
 
 <img src="Images/Xcode-code-highlight.png"> &nbsp;
 
