@@ -10,7 +10,9 @@ Update: The Vapor Leaf  Extension is now meant to be used with the Xcode Plugin 
 ## Vapor Leaf Extension
 This Application registers Vapor Leaf's .leaf file type to LaunchServices adding custom file icon for the file type inside Xcode and in the Finder. [Download](https://github.com/OmranK/LeafSyntaxHighlighter/releases/tag/v2.0) and run just once for desired result.
 
-<img src="Images/Xcode-file-icon.png"> &nbsp; <img src="Images/Finder-icon.png"> &nbsp;
+<img src="Images/Xcode-file-icon.png"> &nbsp; 
+
+<img src="Images/Finder-icon.png"> &nbsp;
 
 To create your own custom icon follow the Apple Developer Documentation: [Design and implement macOS document icons](https://developer.apple.com/news/?id=5i6jlf4d)
 
