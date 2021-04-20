@@ -50,7 +50,7 @@
 		<dict>
 			<key>UTTypeConformsTo</key>
 			<array>
-				<string>public.html</string>
+				<string>xcode.lang.leaf</string>
 			</array>
 			<key>UTTypeDescription</key>
 			<string>Vapor Leaf Extension</string>
@@ -73,7 +73,7 @@
 				</array>
 				<key>public.mime-type</key>
 				<array>
-					<string>text/html</string>
+					<string>text/leaf</string>
 				</array>
 			</dict>
 		</dict>
