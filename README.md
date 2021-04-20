@@ -2,10 +2,12 @@
 
 Update: The Vapor Leaf  Extension is now meant to be used with the Xcode Plugin I designed to provide Xcode language support for the Vapor Leaf language. The version for HTML syntax support only can be found in the dedicated [branch](https://github.com/OmranK/LeafSyntaxHighlighter/tree/html-only).
 
+## Vapor Leaf Plugin
 [Download](https://github.com/OmranK/VaporLeafPlugIn) and set up the Vapor Leaf Plugin for custom syntax highlighting and indentation for Leaf tags with HTML tags.
 
 <img src="Images/Xcode-code-highlight-leaf-tags.png"> &nbsp;
 
+## Vapor Leaf Extension
 This Application registers Vapor Leaf's .leaf file type to LaunchServices adding custom file icon for the file type inside Xcode and in the Finder. [Download](https://github.com/OmranK/LeafSyntaxHighlighter/releases/tag/v2.0) and run just once for desired result.
 
 <img src="Images/Xcode-file-icon.png"> &nbsp; <img src="Images/Finder-icon.png"> &nbsp;
